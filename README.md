@@ -1,5 +1,5 @@
 Vercel App
-frontend
-vercel-deploy-service
-vercel-request-handler
-vercel-upload-service
+Frontend
+Vercel Deploy Service
+Vercel Request Handler
+Vercel Upload Service
